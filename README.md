@@ -1,6 +1,6 @@
 # DecisionTree
 
-This program demonstrates the decition tree using python. All comments in the code are written in Japanese.
+This program demonstrates the decision tree using python. All comments in the code are written in Japanese.
 
 Code: demo_of_decision_tree.ipynb
 
